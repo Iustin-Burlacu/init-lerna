@@ -6,4 +6,5 @@ export class UserAuth {
     getToken(): string {
         return 'jwt_token'
     }
+
 }
