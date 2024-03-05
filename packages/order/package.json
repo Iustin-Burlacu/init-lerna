@@ -1,0 +1,23 @@
+{
+  "name": "order",
+  "version": "0.0.0",
+  "keywords": [],
+  "author": "Iustin-Burlacu",
+  "license": "ISC",
+  "main": "lib/order.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__",
+    "src": "src"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node __tests__/order.test.ts",
+    "compile": "npx rimraf lib && npx tsc -b"
+  },
+  "dependencies": {
+    "user-auth": "*"
+  }
+}

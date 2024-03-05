@@ -1,0 +1,19 @@
+{
+  "name": "root",
+  "private": true,
+  "description": "Test lerna",
+  "version": "0.0.1",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "@types/node": "^20.11.24",
+    "lerna": "^8.1.2",
+    "typescript": "^5.3.3"
+  },
+  "scripts": {
+    "compile": "lerna run compile",
+    "test": "lerna run test",
+    "push": "lerna version --conventional-commits --yes"
+  }
+}
