@@ -47,12 +47,14 @@ $ npm install --save-dev typescript @types/node
 $ npm run compile
 ```
 
-## Push to repo
+## Push to repo using versioning
 ```bash
 $ npm run push
 ```
+https://github.com/semantic-release/semantic-release
 
-## Publish on npm registry
+
+## Publish on npm registry (optional)
 ```
 $ npm run publish
 ```
