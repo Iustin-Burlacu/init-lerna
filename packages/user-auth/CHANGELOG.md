@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/Iustin-Burlacu/init-lerna/compare/v0.1.2...v0.2.0) (2024-03-05)
+
+
+### Features
+
+* test ([b55db8d](https://github.com/Iustin-Burlacu/init-lerna/commit/b55db8d6ebacf5414d7f2b299efc1b568666e134))
+
+
+
+
+
 ## [0.1.1](https://github.com/Iustin-Burlacu/init-lerna/compare/v0.1.0...v0.1.1) (2024-03-05)
 
 
