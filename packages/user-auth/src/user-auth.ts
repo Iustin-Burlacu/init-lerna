@@ -4,6 +4,6 @@ export class UserAuth {
     }
 
     getToken(): string {
-        return 'token'
+        return 'jwt_token'
     }
 }
