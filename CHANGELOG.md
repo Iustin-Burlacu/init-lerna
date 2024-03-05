@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.1](https://github.com/Iustin-Burlacu/init-lerna/compare/v0.1.0...v0.1.1) (2024-03-05)
+
+
+### Bug Fixes
+
+* return jwt token ([45e5fb0](https://github.com/Iustin-Burlacu/init-lerna/commit/45e5fb0625d05a166b606a4ba2450375b13cf3a0))
+
+
+
+
+
 # 0.1.0 (2024-03-05)
 
 

@@ -1,6 +1,6 @@
 {
   "name": "order",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "keywords": [],
   "author": "Iustin-Burlacu",
   "license": "ISC",
@@ -18,6 +18,6 @@
     "compile": "npx rimraf lib && npx tsc -b"
   },
   "dependencies": {
-    "user-auth": "^0.1.0"
+    "user-auth": "^0.1.1"
   }
 }
